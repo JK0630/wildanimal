@@ -1,0 +1,5 @@
+nc: 3
+path: ./data_animal/
+train: ./data_animal/train
+val: ./data_animal/valid
+names: ['gorani','mtpig','raccoon']
